@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af7b2524-1de8-4f60-bb91-03cd756974dd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1171592134">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="7" value="1" />
+          <entry key="Dockerfile" value="6" />
+          <entry key="Makefile" value="2" />
+          <entry key="babelrc" value="10" />
+          <entry key="cs" value="1" />
+          <entry key="h" value="2" />
+          <entry key="hpp" value="1" />
+          <entry key="js" value="92" />
+          <entry key="json" value="34" />
+          <entry key="lock" value="2" />
+          <entry key="log" value="1" />
+          <entry key="mk" value="1" />
+          <entry key="png" value="58" />
+          <entry key="sh" value="42" />
+          <entry key="ts" value="45" />
+          <entry key="yml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Arma.Header" value="3" />
+          <entry key="Bash" value="20" />
+          <entry key="C#" value="1" />
+          <entry key="Image" value="58" />
+          <entry key="JSON" value="44" />
+          <entry key="JavaScript" value="92" />
+          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="TypeScript" value="45" />
+          <entry key="YAML" value="8" />
+          <entry key="yarn.lock" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="259" />
+          <entry key="js" value="6288" />
+          <entry key="json" value="117" />
+          <entry key="sh" value="405" />
+          <entry key="yml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="305" />
+          <entry key="JSON" value="117" />
+          <entry key="JavaScript" value="6288" />
+          <entry key="PLAIN_TEXT" value="359" />
+          <entry key="YAML" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="115" column="48" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+      <find>size</find>
+      <find>typings</find>
+      <find>arc</find>
+      <find>arcLe</find>
+      <find>Mat</find>
+      <find>draw</find>
+      <find>scalar</find>
+      <find>Scalar</find>
+      <find>contour</find>
+      <find>mat2</find>
+      <find>contourArea</find>
+      <find>all_approx_square</find>
+      <find>gaud</find>
+      <find>góc</find>
+      <find>polygon</find>
+      <find>cv</find>
+      <find>prev</find>
+      <find>Util</find>
+      <find>console.log(</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/node_modules/opencv4nodejs/lib/typings</dir>
+      <dir>$PROJECT_DIR$/node_modules/opencv4nodejs/lib</dir>
+      <dir>$PROJECT_DIR$/node_modules/opencv4nodejs</dir>
+      <dir>$PROJECT_DIR$/node_modules/opencv-build</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../VPNHotspot" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/cmake-3.16.1-Linux-x86_64.sh" />
+        <option value="$PROJECT_DIR$/hm.sh" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/ubuntu.sh" />
+        <option value="$PROJECT_DIR$/LMark.js" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/utils.js" />
+        <option value="$PROJECT_DIR$/src/hand.js" />
+        <option value="$PROJECT_DIR$/src/run.sh" />
+        <option value="$PROJECT_DIR$/src/Util.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/src/MathUtil.js" />
+        <option value="$PROJECT_DIR$/src/LMark.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1073" />
+    <option name="height" value="955" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BubbleScanner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BubbleScanner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BubbleScanner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BubbleScanner" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/vinhtn/Desktop/Project/BubbleScanner/tim_contour.png" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589455232173" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="install" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/node_modules/opencv-build/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="install" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.install" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7b2524-1de8-4f60-bb91-03cd756974dd" name="Default Changelist" comment="" />
+      <created>1576138714893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576138714893</updated>
+      <workItem from="1576138716255" duration="7745000" />
+      <workItem from="1576205204260" duration="808000" />
+      <workItem from="1576207169917" duration="2518000" />
+      <workItem from="1576298604125" duration="284000" />
+      <workItem from="1576315823089" duration="495000" />
+      <workItem from="1576328126602" duration="4173000" />
+      <workItem from="1576337793708" duration="4380000" />
+      <workItem from="1576383306370" duration="3982000" />
+      <workItem from="1576478601256" duration="3618000" />
+      <workItem from="1576488434739" duration="3047000" />
+      <workItem from="1576491755388" duration="2092000" />
+      <workItem from="1576547847410" duration="5917000" />
+      <workItem from="1576634351585" duration="20286000" />
+      <workItem from="1576725617543" duration="725000" />
+      <workItem from="1576825351660" duration="759000" />
+      <workItem from="1577026545532" duration="39000" />
+      <workItem from="1577026814558" duration="325000" />
+      <workItem from="1577065564693" duration="424000" />
+      <workItem from="1577176709065" duration="30000" />
+      <workItem from="1583296185042" duration="12475000" />
+      <workItem from="1583318824142" duration="1830000" />
+      <workItem from="1583372688842" duration="17084000" />
+      <workItem from="1583458738566" duration="6767000" />
+      <workItem from="1589364521449" duration="810000" />
+      <workItem from="1589427848762" duration="1936000" />
+      <workItem from="1589512309167" duration="3914000" />
+      <workItem from="1589533381894" duration="2049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108512000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1073" height="955" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49346405" visible="true" weight="0.25994182" />
+      <window_info id="Structure" order="1" sideWeight="0.50653595" side_tool="true" weight="0.15446071" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298611" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290993" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290993" />
+      <window_info anchor="bottom" id="GraphQL" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35034803" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Multi-OS Engine" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/lib/opencv4nodejs.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/lib/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/man/man7/cmake-buildsystem.7" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/lib/cv.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/cc/imgproc/Contour.h" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/lib/typings/cv.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/lib/typings/Mat.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv-build/build/install.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv-build/install.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv-build/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/build/Makefile" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/build/opencv4nodejs.target.mk" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/build/binding.Makefile" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/lib/typings/RotatedRect.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/opencv4nodejs/lib/typings/Contour.d.ts" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="654" column="6" lean-forward="true" selection-start-line="654" selection-start-column="6" selection-end-line="654" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexagons.png" />
+    <entry file="file://$PROJECT_DIR$/quadrilaterals.png" />
+    <entry file="file://$PROJECT_DIR$/tim_contour.png" />
+    <entry file="file://$PROJECT_DIR$/cmake-3.16.1-Linux-x86_64.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1925" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tim_contour.png" />
+    <entry file="file://$PROJECT_DIR$/src/package.json" />
+    <entry file="file://$PROJECT_DIR$/hm.sh" />
+    <entry file="file://$PROJECT_DIR$/ubuntu.sh" />
+    <entry file="file://$PROJECT_DIR$/yarn.lock" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@babel/cli/bin/babel.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ve_contour.png" />
+    <entry file="file://$PROJECT_DIR$/src/drawAfterFindContours.png" />
+    <entry file="file://$PROJECT_DIR$/src/Hexagon.png" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.config/yarn/global/node_modules/metro/src/lib/polyfills/require.js" />
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/downloadOpenCV.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.20200306.133207.7193.0.001.json" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MathUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2125">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hexagons.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polygon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quadrilaterals.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LMark.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="152" column="6" selection-start-line="152" selection-start-column="6" selection-end-line="152" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao_nguoc_mau.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dilated.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="115" column="48" selection-start-line="115" selection-start-column="48" selection-end-line="115" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
